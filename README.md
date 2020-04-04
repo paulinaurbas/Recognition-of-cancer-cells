@@ -1,6 +1,14 @@
 # Recognition of cancer cells
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> due to the fact that the data is licensed this way and also under the Apache License 2.0
+
 Data science project. The neural network model categorizes different cancerous skin changes. The data used to train the model is from [Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?fbclid=IwAR0JBQA56h2px1Uzw8rxmv-4QTMT_1bnOx395MLhgX3timx6Xw6VYFMIS4g)
+
+## Project structure
+
+- `data/` - contains all of the data we found in [Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?fbclid=IwAR0JBQA56h2px1Uzw8rxmv-4QTMT_1bnOx395MLhgX3timx6Xw6VYFMIS4g) and created for training and testing reasons
+- `clean/` - contains all notebooks we used to analyze the data and scripts that clean the data and prepare it for further machine learning
+- `model/` - contains all notebooks and scripts used to define and train our neural network model
 
 ## Development
 
