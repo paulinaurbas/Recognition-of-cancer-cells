@@ -1,6 +1,7 @@
 .vscode/
 .DS_Store
 data/*
+*.h5
 
 
 # Byte-compiled / optimized / DLL files
