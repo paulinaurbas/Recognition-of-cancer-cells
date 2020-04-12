@@ -7,8 +7,7 @@ Data science project. The neural network model categorizes different cancerous s
 ## Project structure
 
 - `data/` - contains all of the data we found in [Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?fbclid=IwAR0JBQA56h2px1Uzw8rxmv-4QTMT_1bnOx395MLhgX3timx6Xw6VYFMIS4g) and created for training and testing reasons
-- `clean/` - contains all notebooks we used to analyze the data and scripts that clean the data and prepare it for further machine learning
-- `model/` - contains all notebooks and scripts used to define and train our neural network model
+- `analysis.ipynb` - notebook with all analysis and model creation process
 
 ## Development
 
