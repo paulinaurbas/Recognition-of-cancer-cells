@@ -2,7 +2,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> due to the fact that the data is licensed this way and also under the Apache License 2.0
 
-Data science project. The neural network model categorizes different cancerous skin changes. The data used to train the model is from [Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?fbclid=IwAR0JBQA56h2px1Uzw8rxmv-4QTMT_1bnOx395MLhgX3timx6Xw6VYFMIS4g)
+Data science project. The neural network model categorizes different cancerous skin changes. The data used to train the model is from [Kaggle](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?fbclid=IwAR0JBQA56h2px1Uzw8rxmv-4QTMT_1bnOx395MLhgX3timx6Xw6VYFMIS4g). Our solution is basen on [this kernel](https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy)
 
 ## Project structure
 
